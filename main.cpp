@@ -3,7 +3,7 @@
 
 const int pinTrig = 2; //pin digitale, car on veut stimuler la pin Trigger en la faisant passer a l'etat Haut
 const int pinEcho = 3; //pin digitale, car la pin Echo est a l'etat Haut le temps que les ultrasons fassent l'aller-retour capteur/objet
-const int pinBuzz = 4;
+const int pinBuzz = 9;
 
 const int pinLedV = 8;
 const int pinLedR = 6;
